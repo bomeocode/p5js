@@ -5,7 +5,7 @@ let idx = 0;
 let width, height;
 let panel = [];
 let placeholder = "          ";
-let msg = "AUf den Poden mit dem Purchen!";
+let msg = "Hello World!";
 
 function setup() {
   width = cols * grid;
