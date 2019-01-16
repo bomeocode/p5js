@@ -1,4 +1,4 @@
-## P5js-Projekte und -Experimente
+## Projekte und Experimente mit Javascript und P5js
 
 - rotbot1:		Rotierende Kreise, die aus Punkten bestehen und beim Rotieren nett anzuschauende Muster erzeugen
 - ledpanel:		Ein virtuelles LED-Panel, auf dem eine Laufschrift angezeigt wird
