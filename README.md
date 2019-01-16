@@ -4,4 +4,4 @@
 - ledpanel:		Ein virtuelles LED-Panel, auf dem eine Laufschrift angezeigt wird
 
 Alle Projekte referenzieren die P5js-Bibliotheken, die sich im Verzeichnis "libraries" befinden.
-Hier geht's zum P5js-Projket: https://p5js.org/
+Hier geht's zum P5js-Projekt: https://p5js.org/
